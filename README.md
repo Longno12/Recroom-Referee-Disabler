@@ -1,1 +1,1 @@
-Blocks Recroom Referee Anti-Cheat from opening foow the instructions in txt file on how to use 
+Blocks Recroom Referee Anti-Cheat from opening follow the instructions in txt file on how to use 
