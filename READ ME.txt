@@ -1,0 +1,7 @@
+HOW TO USE:
+
+1. Make a folder called "RektRoom" in "C:\Program Files (x86)\Steam\steamapps\common"
+
+2. Move contents of files into this folder
+
+3. Run RektRoom.exe. The game should begin to start.
